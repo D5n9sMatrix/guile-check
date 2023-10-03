@@ -18,7 +18,8 @@
     ],
     "expandedItems": [
         "/home/admin/guile-dlang/guile-check/check/check/dub.json",
-        "/home/admin/guile-dlang/guile-check/check/check/source/front"
+        "/home/admin/guile-dlang/guile-check/check/check/source",
+        "/home/admin/guile-dlang/guile-check/check/check/source/html"
     ],
-    "selectedWorkspaceItem": "/home/admin/guile-dlang/guile-check/check/check/source"
+    "selectedWorkspaceItem": "/home/admin/guile-dlang/guile-check/check/check/source/html/index"
 }
