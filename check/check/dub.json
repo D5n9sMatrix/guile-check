@@ -1,0 +1,6 @@
+{
+    "name": "check",
+    "targetName": "check",
+    "targetType": "executable",
+    "targetPath": "bin"
+}

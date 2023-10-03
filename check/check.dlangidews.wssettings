@@ -1,0 +1,24 @@
+{
+    "startupProject": "check",
+    "breakpoints": [
+    ],
+    "bookmarks": [
+    ],
+    "files": [
+        {
+            "file": "/home/admin/guile-dlang/guile-check/check/check/source/app.d",
+            "column": 0,
+            "row": 0
+        },
+        {
+            "file": "/home/admin/guile-dlang/guile-check/check/check/source/front/dlang.d",
+            "column": 263,
+            "row": 0
+        }
+    ],
+    "expandedItems": [
+        "/home/admin/guile-dlang/guile-check/check/check/dub.json",
+        "/home/admin/guile-dlang/guile-check/check/check/source/front"
+    ],
+    "selectedWorkspaceItem": "/home/admin/guile-dlang/guile-check/check/check/source"
+}

@@ -1,0 +1,9 @@
+{
+    "name": "check",
+    "description": null,
+    "projects": {
+        "check": "check/dub.json"
+    },
+    "includePath": {
+    }
+}
